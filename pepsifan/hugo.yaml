@@ -2,3 +2,6 @@ baseURL: https://pepsifan.github.io/
 languageCode: en-us
 title: pepsifan's note box
 theme: ["PaperMod"]
+caches:
+  images:
+    dir: :cacheDir/images
